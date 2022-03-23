@@ -1,5 +1,6 @@
 # NLW Valoriza
 
+server.ts -> controllers -> services -> repositories -> database
 ## Regras
 
 - Cadastro de Usuário
