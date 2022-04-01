@@ -67,3 +67,4 @@ server.ts -> controllers -> services -> repositories -> database
 
 ## ---------------
     - Services são regras de negócio
+    - recomendado: MD5 HASH GENERATOR https://www.md5hashgenerator.com/
