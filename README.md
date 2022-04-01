@@ -38,6 +38,8 @@ server.ts -> controllers -> services -> repositories -> database
     - uuid
     - @types/uuid -D
     - express-async-errors
+    - jsonwebtoken
+    - @types/jsonwebtoken -D
 
 ## Importante para o projeto funcionar:
     - Instale o YARN
