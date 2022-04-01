@@ -40,6 +40,8 @@ server.ts -> controllers -> services -> repositories -> database
     - express-async-errors
     - jsonwebtoken
     - @types/jsonwebtoken -D
+    - bcryptjs
+    - @types/bcryptjs -D
 
 ## Importante para o projeto funcionar:
     - Instale o YARN
