@@ -56,6 +56,7 @@ server.ts -> controllers -> services -> repositories -> database
     - experimentalDecorators: true
     - emitDecoratorMetadata: true
     - strictPropertyInitialization: false
+    - na hora que for sobrescrever algo e criar a pasta @types, vá no "tsconfig.json", no "typeRoots", descomente-o e adicione o "./src/@types"
 
 ## Documentação:
     * yarn -- https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
