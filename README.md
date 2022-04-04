@@ -42,6 +42,7 @@ server.ts -> controllers -> services -> repositories -> database
     - @types/jsonwebtoken -D
     - bcryptjs
     - @types/bcryptjs -D
+    - class-transformer
 
 ## Importante para o projeto funcionar:
     - Instale o YARN
